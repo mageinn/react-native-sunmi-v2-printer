@@ -23,8 +23,8 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "react": "17.0.1",
-    "react-native": "^0.64.3"
+    "react": "18.2.0",
+    "react-native": "^0.72.3"
   },
   "homepage": "https://github.com/developer-fs/react-native-sunmi-v2-printer#readme",
   "directories": {
